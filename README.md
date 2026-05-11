@@ -355,7 +355,7 @@ average='weighted'
 
 ### 11.1. Pretrained SqueezeNet + Adam
 
-<img width="567" height="455" alt="Experiment 1: Pretrained SqueezeNet + Adam" src="https://github.com/user-attachments/assets/7a0524e4-23ce-46e3-b873-b76703a5f905" />
+<img width="567" height="455" alt="1" src="https://github.com/user-attachments/assets/a7448fd0-f2f3-438a-9982-c2867d8dc5ea" />
 
 График потерь Pretrained SqueezeNet + Adam.
 
@@ -363,7 +363,7 @@ average='weighted'
 
 ### 11.2. Pretrained SqueezeNet + AmsGrad
 
-<img width="567" height="455" alt="Experiment 2: Pretrained SqueezeNet + AmsGrad" src="https://github.com/user-attachments/assets/d4c9dd38-ef0a-472e-adea-6d36fa6707a3" />
+<img width="567" height="455" alt="2" src="https://github.com/user-attachments/assets/0fcba794-1895-433a-8065-aef06df09424" />
 
 График потерь Pretrained SqueezeNet + AmsGrad.
 
@@ -371,7 +371,7 @@ average='weighted'
 
 ### 11.3. Custom SqueezeNet From Scratch + Adam
 
-<img width="584" height="455" alt="Experiment 3: Custom SqueezeNet From Scratch + Adam" src="https://github.com/user-attachments/assets/7dec6580-3c33-4186-85f3-85bbb3b295bc" />
+<img width="567" height="455" alt="3" src="https://github.com/user-attachments/assets/1b11aec0-65bb-4f5d-bae3-3d3475f35ad2" />
 
 График потерь Custom SqueezeNet From Scratch + Adam.
 
@@ -466,17 +466,4 @@ AmsGrad показал результат выше примерно на **0.021
 
 ```text
 lab1_stanford_dogs.ipynb
-```
-
-
-
-В репозитории также размещены:
-
-* графики обучения;
-* сохранённые веса лучших моделей;
-* итоговые результаты экспериментов.
-
-```
-
-Единственное: ссылки на картинки в разделе графиков у тебя пока старые. Надо заменить `src="..."` на новые GitHub-ссылки после того, как загрузишь свежие графики с новыми результатами.
 ```
